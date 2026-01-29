@@ -64,6 +64,6 @@ Tiled VAE Decoding: Breaking final video latents into smaller "tiles" to prevent
 The generation logic is powered by a custom node-graph, allowing for intricate control over the diffusion process, including custom LoRAs and ControlNets.<br /><p align="center"><img src="./assets/w1.png" width="100%" style="border-radius: 10px; border: 1px solid #ddd;" alt="ComfyUI Workflow nodes" /></p><br /><img src="./assets/w2.png" width="100%" style="border-radius: 10px; border: 1px solid #ddd;" alt="ComfyUI Workflow nodes" /></p><br />📽️ Final Production ShowcaseWitness the power of agentic automation. The video below was generated, downloaded, and stitched with zero human manual effort after the initial script was provided.
 
 <br /><div align="center"><kbd><div align="center">
-  <video src="https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/raw/main/outputs/test_output.mp4" width="90%" controls>
+  <video src="https://github.com/abChaw/Agentic-Video-Synthesizer/raw/main/outputs/test_output.mp4" width="90%" controls>
   </video>
 </div></kbd><p align="center"><i>"A romantic, cinematic short story rendered in Wan 2.1"</i></p></div><br />
