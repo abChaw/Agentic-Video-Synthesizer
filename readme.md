@@ -65,7 +65,7 @@ The generation logic is powered by a custom node-graph, allowing for intricate c
 
 <br /><div align="center"><kbd><div align="center">
 <video width="320" height="240" controls>
-  <source src="/outputs/test_output.mp4" type="video/mp4">
+  <source src="./outputs/test_output.mp4" type="video/mp4">
 </video>
 
 </div></kbd><p align="center"><i>"A romantic, cinematic short story rendered in Wan 2.1"</i></p></div><br />
