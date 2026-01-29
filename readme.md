@@ -63,9 +63,15 @@ Tiled VAE Decoding: Breaking final video latents into smaller "tiles" to prevent
 🧩 The Backend: ComfyUI Architecture
 The generation logic is powered by a custom node-graph, allowing for intricate control over the diffusion process, including custom LoRAs and ControlNets.<br /><p align="center"><img src="./assets/w1.png" width="100%" style="border-radius: 10px; border: 1px solid #ddd;" alt="ComfyUI Workflow nodes" /></p><br /><img src="./assets/w2.png" width="100%" style="border-radius: 10px; border: 1px solid #ddd;" alt="ComfyUI Workflow nodes" /></p><br />📽️ Final Production ShowcaseWitness the power of agentic automation. The video below was generated, downloaded, and stitched with zero human manual effort after the initial script was provided.
 
-<br /><div align="center"><kbd><div align="center">
+<!-- <br /><div align="center"><kbd><div align="center">
 <video width="320" height="240" controls>
   <source src="./outputs/test_output.mp4" type="video/mp4">
-</video>
+</video> -->
+
+
+
+
+https://github.com/user-attachments/assets/b820fb91-7924-4765-963b-14da8c344657
+
 
 </div></kbd><p align="center"><i>"A romantic, cinematic short story rendered in Wan 2.1"</i></p></div><br />
